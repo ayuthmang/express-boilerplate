@@ -2,6 +2,10 @@
 
 Express es6 and so on
 
+## Environment file
+
+Create folder `env` files `development.env` and `production.env` and define your secret values.
+
 ## Run development server
 
 ```bash
