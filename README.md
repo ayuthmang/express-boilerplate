@@ -20,8 +20,8 @@ DB_PASS=toor
 ```
 
 ```js
-const DB_USER = process.env.DB_USER; // root
-const DB_PASS = process.env.DB_PASS; // toor
+const DB_USER = process.env.DB_USER; // it'll be root
+const DB_PASS = process.env.DB_PASS; // it'll be toor
 ```
 
 
